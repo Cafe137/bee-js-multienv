@@ -1,0 +1,18 @@
+{
+    "name": "nodeland-ts",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "ts-node index.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@ethersphere/bee-js": "^5.1.2-pre.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    }
+}

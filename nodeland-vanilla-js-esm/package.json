@@ -1,0 +1,16 @@
+{
+    "name": "nodeland-vanilla-js-esm",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node --experimental-modules --es-module-specifier-resolution=node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@ethersphere/bee-js": "^5.1.2-pre.0"
+    }
+}
